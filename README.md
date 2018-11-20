@@ -1,2 +1,2 @@
 # cool-snippet
-Collection of Cool and interesting code snippets
+Collection of cool, tricky and interesting code snippets
